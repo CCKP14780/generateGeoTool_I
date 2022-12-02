@@ -1,0 +1,1 @@
+This tool allow the user to create cube of primitives. It also allow user to export data as json or allembic file.
